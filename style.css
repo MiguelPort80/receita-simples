@@ -1,0 +1,35 @@
+body{
+
+    color: #39ff14;
+    background: #151515;
+    max-width: 850px;
+    margin: auto;
+}
+
+header{
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+}
+
+hr {
+    background-color: #39ff14;
+    color: #39ff14;
+    width: 850px;
+}
+li{
+
+    text-align: left;
+}
+#maindiv {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#linha{
+    
+    color: #39ff14;
+    border-style: solid;
+    border-width: 2px 0px 0px 0px;
+}
+
